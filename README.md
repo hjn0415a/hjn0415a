@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm hojun</h1>
+<h1 align="center">Hi 👋, I'm HoJun</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
 - 📫 How to reach me **hjn0415a@gmail.com**
